@@ -3,8 +3,7 @@ def new_hash
 end
 
 def my_hash
-  hash = {key: "value"}
-  return 
+  return {key: "value"}
 end
 
 def pioneer
@@ -12,8 +11,8 @@ def pioneer
 end
 
 def id_generator
-  id_hash = {id: 1}
-  return id_hash
+  {id: 1}
+  return
 end
 
 def my_hash_creator(key, value)
