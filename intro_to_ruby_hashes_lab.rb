@@ -4,12 +4,11 @@ end
 
 def my_hash
   hash = {key: "value"}
-  return hash
+  return 
 end
 
 def pioneer
-  {name: "Grace Hopper"}
-  return 
+  return {name: "Grace Hopper"}
 end
 
 def id_generator
